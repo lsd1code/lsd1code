@@ -1,6 +1,6 @@
 # Hello, I'm Lesedi
 
-I am a passionate junior web developer excited about creating interactive and engaging web applications
+I am a passionate web developer excited about creating interactive and engaging web applications
 
 ## Skills 💯
 
