@@ -17,11 +17,11 @@ Currently, I'm focused on enhancing my skills in Responsive design and optimizat
 ## Projects 💾
 
 Here are few of my projects:
-1. **[Project 1](link-to-repo-demo):**
-- brief description
+1. **[WorkSync](https://github.com/lsd1code/WorkSync):**
+- Work Tracking Application build with react and mongodb
 
-2. **[Project 2](link-to-repo-demo):**
-- brief description
+2. **[README.md Templates Generator](https://github.com/lsd1code/README.md-template-generator):**
+- npm package that allows you to generate README.md templates in your current working directory
 
 ## Let's connect 🤝
  - LinkedIn: [profile](link-to-profile)
